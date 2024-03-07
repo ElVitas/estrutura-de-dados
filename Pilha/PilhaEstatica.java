@@ -5,7 +5,7 @@ public class PilhaEstatica implements Empilhavel {
     private int tamanho;
 
     public PilhaEstatica() {
-        this(10);
+        this(5);
     }
 
     public PilhaEstatica(int tamanho) {
